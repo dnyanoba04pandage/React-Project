@@ -14,30 +14,7 @@ function App() {
       <Card username="Card 1 Chai" btntext="Read More" />
       <Card username="Card 2 Chai" btntext="Learn More" />
 
-      
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    
 
         {/*
           <div>
